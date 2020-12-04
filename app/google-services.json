@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "186296499091",
+    "firebase_url": "https://celda-de-carga-4964c.firebaseio.com",
+    "project_id": "celda-de-carga-4964c",
+    "storage_bucket": "celda-de-carga-4964c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186296499091:android:03e7eec318c789b744c666",
+        "android_client_info": {
+          "package_name": "mx.edu.tesoem.isc.tlgr.celdadecarga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186296499091-jtog3nj78op8ukn219q6tro1km9gmdmh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.edu.tesoem.isc.tlgr.celdadecarga",
+            "certificate_hash": "e1199f29f8b14f8984cf9f4198a44e38548a6e4f"
+          }
+        },
+        {
+          "client_id": "186296499091-u7d1lmrf7p7eop2uis0gv39nms68vuth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8bRjx4vM6o-RKzoHqJyhYcQoWyOfesyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186296499091-u7d1lmrf7p7eop2uis0gv39nms68vuth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
